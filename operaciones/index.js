@@ -31,5 +31,6 @@ function multiplica(...valors) {
     return resultado;
 }
 
+
 module.exports.suma = suma;
 module.exports.multiplica = multiplica;
